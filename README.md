@@ -1,6 +1,6 @@
 # Salesforce Capstone Project: Hotel Room Booking & Guest Management System
 
-## PROBLEM STATEMENT
+## Problem Statement
 
 You can view the project documentation here:
 
