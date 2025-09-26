@@ -16,6 +16,6 @@ A custom Salesforce CRM solution built for **Trendy Kings Film** to streamline f
 [![Watch Demo on Google Drive](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://drive.google.com/file/d/1RK-sJvQonk00a2CLdXP_cgEqawzNkyLc/view?usp=sharing)  
 *(Click the thumbnail or link above to view the demo video.)*
 
-> _Note_: Replace `VIDEO_ID` in the thumbnail URL with an actual YouTube video ID if you decide to host on YouTube. If using Drive, you may omit the thumbnail or upload a small image manually.
+
 
 ---
